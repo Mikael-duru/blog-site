@@ -1,4 +1,4 @@
-# blog-site
+# BLOG SITE
 
 A custom blog website that offers the right set structure, visual content (infographics, videos, slideshows, images), a clear focus, regular content, and internal linking to keep users on the site for as long as possible.
 
