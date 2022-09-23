@@ -9,3 +9,5 @@ A custom blog website that offers the right set structure, visual content (infog
 * Owl Carousel
 * AOS (Animation on Scroll)
 * JavaScript (Jquery)
+
+Live site: [https://blogsite-mikael.netlify.app/](https://blogsite-mikael.netlify.app/)
